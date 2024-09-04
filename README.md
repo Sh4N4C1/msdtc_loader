@@ -1,10 +1,8 @@
 # msdtc_loader
 
-1. dll sideload
-2. no crt
-3. proxy load dll
-4. proxy call
-5. Caro-Kann
+Please note that this small project is already integrated with **sh4loader**
+https://github.com/Sh4N4C1/sh4loader
+
 
 ## usage
 
